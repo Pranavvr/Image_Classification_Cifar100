@@ -1,4 +1,4 @@
-# Image_Classification_Sifar100
+# Image_Classification_Cifar100
 
 ## Project Overview
 This project focuses on implementing and comparing different neural network architectures for image classification using the CIFAR-100 dataset. The dataset comprises 60,000 32x32 color images across 100 different classes. We explore two distinct approaches: one using a traditional Deep Neural Network (DNN) without convolutional layers, and the other combining Convolutional Neural Networks (CNN) with a DNN to enhance classification performance.
